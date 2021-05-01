@@ -16,15 +16,3 @@ const console = require('./_console.log');
 // https://www.youtube.com/watch?v=NErrGZ64OdE&t=321s
 
 // ==========================================
-
-const arr = [ 6, 7, 1, 1, -8, 9, 3, -8, 6, -5, 4, 2, 1 ];
-// const arr = [ 2, 6, 5, 7, 8, 4, 9 ];
-let count = 0;
-
-function quickSort(arr) {
-	
-}
-
-console.log(quickSort(arr));
-// console.log(count);
-

@@ -10,8 +10,6 @@ const console = require('./_console.log');
 
 // ==========================================
 
-// Рекурсия
-// https://learn.javascript.ru/recursion
 // https://github.com/utimur/algs_and_structures_course
 // https://www.youtube.com/watch?v=NErrGZ64OdE&t=321s
 
